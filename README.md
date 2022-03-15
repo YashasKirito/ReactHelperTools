@@ -1,2 +1,2 @@
 # ReactHelperTools
-A repository for all the react tools i develop
+A repository for all the react tools that I develop.
